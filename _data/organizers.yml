@@ -1,7 +1,7 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Makerere", description: "GDG Makerere - Open and volunteer geek community", link: "https://plus.google.com/b/111272613539973122492/111272613539973122492", imageUrl: "gdg-makerere.svg"}
 - 
   # group: "Co-organizers"
   # elements: 
