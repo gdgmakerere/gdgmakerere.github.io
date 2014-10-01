@@ -31,7 +31,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: 
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: 
 
 
 # Navigation
@@ -44,9 +44,9 @@ navigationLinks:
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/showcase/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Register here"}
+ - {link: "http://goo.gl/5Aenbr", text: "Register here"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Register here"}
+ - {link: "http://goo.gl/5Aenbr", text: "Register here"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -55,7 +55,7 @@ eventDate: "18th October, 2014"
 typeoutTextValues: '"", "Apps", "Android", "Codelabs", "Cloud"'
 typeoutFallback: "Android"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Register here"}
+ - {link: "http://goo.gl/5Aenbr", text: "Register here"}
  #- {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
