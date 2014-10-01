@@ -97,13 +97,13 @@
         <ul id="bottom-navlinks" class="bottom-navlinks visible-xs">
             
             <li>
-                <a href=" http://bit.ly/dfua-c4p " target="_blank">Register Here</a>
+                <a href=" http://bit.ly/dfua-c4p " target="_blank">Register here</a>
             </li>
             
         </ul>
         
         <a href=" http://bit.ly/dfua-c4p " class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm" target="_blank">
-            Register Here
+            Register here
         </a>
         
     </nav>
@@ -115,7 +115,7 @@
             <h1>GDG Makerere DevFest 2014 <span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">Android</span></h1>
             <p>18th October, 2014</p>
             
-            <a href=" http://bit.ly/dfua-c4p " class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Register Here</a>
+            <a href=" http://bit.ly/dfua-c4p " class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Register here</a>
             
         </div>
     </div>
@@ -289,13 +289,13 @@ This... <a href="/blog/hello-world">continue reading</a></p>
                     <h3>Location</h3>
                     <ul>
                         <li>CEDAT Conference Hall</li>
-                        <li>New Technology Building, Makerere</li>
+                        <li>Technology New Building, Makerere University</li>
                         <li><a href="mailto:gdgmakererere@gmail.com">gdgmakererere@gmail.com</a></li>
                         <li>
                             
-                            <time>10:00</time> -
+                            <time>09:00</time> -
                             
-                            <time>20:00</time>
+                            <time>16:00</time>
                         </li>
                     </ul>
                 </div>
@@ -519,7 +519,7 @@ This... <a href="/blog/hello-world">continue reading</a></p>
 				</li>
 				
 				<li>
-					<a href=" https://twitter.com/GdgMakerere " target="_blank">
+					<a href=" https://twitter.com/intent/user?screen_name=GDGLviv " target="_blank">
 						<svg class="icon icon-twitter" viewBox="0 0 30 32">
 							<use xlink:href="/img/sprites/sprites.svg#icon-twitter"></use>
 						</svg>
@@ -582,15 +582,15 @@ This... <a href="/blog/hello-world">continue reading</a></p>
         
             if ($(window).width() > 767) {
                 var googleMaps = 'index',
-                    eventPlace = new google.maps.LatLng(49.843237,24.028751),
-                    centerMap = new google.maps.LatLng(49.842537,24.025701),
-                    mobileCenterMap = new google.maps.LatLng(49.841620,24.029411),
+                    eventPlace = new google.maps.LatLng(0.336631,32.564329),
+                    centerMap = new google.maps.LatLng(0.336631,32.564329),
+                    mobileCenterMap = new google.maps.LatLng(0.336631,32.564329),
                     icon = '/img/other/map-marker.svg';
             } else {
                var staticGoogleMaps = true,
-                eventPlaceCoordinates = '49.843237,24.028751',
-                centerMapCoordinates = '49.842537,24.025701',
-                mobileCenterMapCoordinates = '49.841620,24.029411',
+                eventPlaceCoordinates = '0.336631,32.564329',
+                centerMapCoordinates = '0.336631,32.564329',
+                mobileCenterMapCoordinates = '0.336631,32.564329',
                 icon = 'http://gdgmakerere.github.io/img/other/map-marker.png';
             }
             var twitterFeedUrl = '';
@@ -598,7 +598,7 @@ This... <a href="/blog/hello-world">continue reading</a></p>
                 $(function () {
                     if ($(window).width() > 767) {
                         $("#typeout-text").typed({
-                            strings: ["", "Talks", "Android", "Codelabs"],
+                            strings: ["", "Apps", "Android", "Codelabs", "Cloud"],
                             typeSpeed: 150,
                             backDelay: 900,
                             loop: true
@@ -627,7 +627,7 @@ This... <a href="/blog/hello-world">continue reading</a></p>
                 rockstarSpeakers.sort(function() {return 0.5 - Math.random()});
                 if(rockstarSpeakers.length > 0) {
                     var animationDelay = 1500,
-                        count = 5,
+                        count = 4,
                         colWidth = 12/count;
                     for(i=0; i<count; i++) {
                         var clearfix = '<div class="clearfix visible-xs"></div>';
@@ -652,17 +652,17 @@ This... <a href="/blog/hello-world">continue reading</a></p>
         "description": "Android: Building quality apps",
         "image" : "http://gdgmakerere.github.io/img/seo/sharing-google-plus.png",
         "url" : "http://gdgmakerere.github.io",
-        "startDate" : "2014-10-25T10:00",
-        "doorTime" : "09:00",
-        "endDate" : "2014-10-25T20:00",
+        "startDate" : "2014-10-25T09:00",
+        "doorTime" : "08:00",
+        "endDate" : "2014-10-25T16:00",
         "location" : {
             "@type" : "Place",
             "name" : "CEDAT Conference Hall",
             "sameAs" : "http://cedat.mak.ac.ug/",
             "address" : {
                 "@type" : "PostalAddress",
-                "streetAddress" : "New Technology Building",
-                "addressLocality" : "Makerere",
+                "streetAddress" : "Technology New Building",
+                "addressLocality" : "Makerere University",
                 "addressRegion" : "Kampala",
                 "postalCode" : "",
                 "addressCountry" : "Uganda"
@@ -670,8 +670,8 @@ This... <a href="/blog/hello-world">continue reading</a></p>
             "geo" : {
                 "@type" : "GeoCoordinates",
                 
-                "latitude" : "49.843237",
-                "longitude" : " 24.028751"
+                "latitude" : "0.336631",
+                "longitude" : " 32.564329"
             }
         },
         // Not supported yet
@@ -681,8 +681,8 @@ This... <a href="/blog/hello-world">continue reading</a></p>
         //     "alternateName" : "Google Developer Group Makerere",
         //     "description" : "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion.",
         //     "logo" : "http://gdgmakerere.github.io/img/seo/organizer-logo.png",
-        //     "email" : "gdgmakerere@gmail.com",
-        //     "sameAs" : "http://lviv.gdg.org.ua/"
+        //     "email" : "gdgmakerere@googlegroups.com",
+        //     "sameAs" : "https://developers.google.com/groups/chapter/111272613539973122492/"
         // },
         "subEvent" : {
             "@type" : "Event",
