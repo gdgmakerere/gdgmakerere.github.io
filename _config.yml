@@ -44,18 +44,18 @@ navigationLinks:
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/showcase/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Register Here"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Register Here"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG Makerere DevFest 2014 <typeout>"
 eventDate: "18th October, 2014"
-typeoutTextValues: '"", "Quality", "Android", "Codelabs", "Cloud"'
+typeoutTextValues: '"", "Talks", "Android", "Codelabs"'
 typeoutFallback: "Android"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Register"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Register Here"}
  #- {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -78,7 +78,7 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 5
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
@@ -86,7 +86,7 @@ rockstarSpeakersButtonText: "See all speakers"
 locationBlockTitle: "Location"
 eventLocationName: "CEDAT Conference Hall"
 eventLocationLink: "http://cedat.mak.ac.ug/"
-eventStreetAddress: "22 Teatral'na St"
+eventStreetAddress: "New Technology Building"
 eventAddressLocality: "Makerere"
 eventAddressLocalityRegion: "Kampala"
 eventPostalCode: 
@@ -167,24 +167,24 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ - {link: "https://twitter.com/GdgMakerere", icon: "twitter"}
+ #- {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ #- {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "https://developers.google.com/groups/chapter/111272613539973122492/", text: "GDG Makerere"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:gdgmakerere@googlegroups.com", text: "gdgmakerere@googlegroups.com"}
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "devfestua"
+blogCommentsEnabled: false
+discusShortName: 
 
 # Speakers List Block
 showSessions: true
