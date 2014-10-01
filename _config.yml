@@ -11,7 +11,7 @@ description: "Android: Building quality apps"
 baseurl: ""
 url: "http://gdgmakerere.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsTrackingId: "UA-55332211-1"
 googleAnalyticsSiteUrl: "gdgmakerere.github.io"
 
 # Organizer Info
@@ -30,7 +30,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
+c4pUrl: 
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -68,9 +68,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "70", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "70", specialCharacter: "+", info: "attendees", detail: "Students, Developers, Designers on campus"}
  - {count: "5", specialCharacter: "+", info: "hours", detail: "of in depth Android talks and codelabs"}
- - {count: "5", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "5", specialCharacter: "+", info: "speakers", detail: "With great experience"}
  #- {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
@@ -166,8 +166,8 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+ - {link: "https://plus.google.com/111272613539973122492", icon: "google-plus"}
+ - {link: "https://twitter.com/GdgMakerere", icon: "twitter"}
  # - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  # - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
