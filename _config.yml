@@ -24,7 +24,7 @@ organizerLink: "https://developers.google.com/groups/chapter/1112726135399731224
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, developers, makerere"
-twitterAccount: "@gdgMakerere"
+twitterAccount: "@GdgMakerere"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -110,7 +110,7 @@ mapMobileCenterCoordinates: "0.336631, 32.564329"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "gdgmakerere"
+twitterHashTag: "devfestmakerere"
 twitterFeed: 
 
 # Partners Block
