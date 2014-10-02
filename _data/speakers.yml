@@ -3,7 +3,7 @@
   name: "Daniel"
   surname: "Okalany"
   company: "Kola Studios"
-  title: "Lead Programmer"
+  title: "Founder/Lead Programmer"
   bio: ""
   thumbnailUrl: DanielOkalany.jpg
   rockstar: true
@@ -51,3 +51,16 @@
     - {name: "google-plus", link: "https://plus.google.com/108345695978241560980"}
     - {name: "twitter", link: "https://twitter.com/austiine04"}
     - {name: "github", link: "https://github.com/austiine04"}
+
+- 
+  id: 7
+  name: "Zed Jasper"
+  surname: "Onono"
+  company: "Kola Studios"
+  title: "Founder/Engine Programmer"
+  bio: ""
+  thumbnailUrl: JasperOnono.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JasperOnonoZed/"}
+    - {name: "twitter", link: "https://twitter.com/zedjasper"}
