@@ -64,3 +64,16 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+JasperOnonoZed/"}
     - {name: "twitter", link: "https://twitter.com/zedjasper"}
+
+- 
+  id: 8
+  name: "Caesar"
+  surname: "Mukama"
+  company: "Devolv"
+  title: "Founder"
+  bio: ""
+  thumbnailUrl: CaesarMukama.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+CaesarMukama/"}
+    - {name: "twitter", link: "https://twitter.com/CA3S"}

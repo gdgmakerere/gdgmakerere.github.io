@@ -56,3 +56,11 @@
   speakers: []
   language: en
   complexity: "Beginner"
+-
+  id: 007
+  title: "Android Design Priniciples"
+  description: "Learn how to keep the user's best interests in mind"
+  subtype: presentation
+  speakers: [8]
+  language: en
+  complexity: "Beginner"
