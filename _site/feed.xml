@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GDG Makerere DevFest</title>
-    <description>Android: Building quality apps</description>
+    <description>Android: Making good apps great!</description>
     <link>http://gdgmakerere.github.io/</link>
     <atom:link href="http://gdgmakerere.github.io/feed.xml" rel="self" type="application/rss+xml" />
     

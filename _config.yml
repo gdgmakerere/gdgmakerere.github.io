@@ -7,7 +7,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 # Site Settings
 title: "GDG Makerere DevFest"
 email: "gdgmakererere@googlegroups.com"
-description: "Android: Building quality apps"
+description: "Android: Making good apps great!"
 baseurl: ""
 url: "http://gdgmakerere.github.io"
 permalink: "/blog/:title"
