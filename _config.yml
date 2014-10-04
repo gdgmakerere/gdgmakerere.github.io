@@ -6,7 +6,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG Makerere DevFest"
-email: "gdgmakererere@gmail.com"
+email: "gdgmakererere@googlegroups.com"
 description: "Android: Building quality apps"
 baseurl: ""
 url: "http://gdgmakerere.github.io"
@@ -70,7 +70,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "70", specialCharacter: "+", info: "attendees", detail: "Students, Developers, Designers on campus"}
  - {count: "5", specialCharacter: "+", info: "hours", detail: "of in depth Android talks and codelabs"}
- - {count: "5", specialCharacter: "+", info: "speakers", detail: "With great experience"}
+ - {count: "7", specialCharacter: "+", info: "speakers", detail: "With great experience"}
  #- {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
